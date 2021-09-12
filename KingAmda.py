@@ -38,6 +38,12 @@ def stat(qq):
     "parse_mode": "HTML",
     "reply_markup": {
         "inline_keyboard": [
+          [
+            {
+              "text":"Devs",
+              "url":"https://t.me/KingAmda"
+            }
+          ],
             [
                 {
                     "text": "➕ Add me to your Group",

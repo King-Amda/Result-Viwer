@@ -34,7 +34,7 @@ def stat(qq):
   data = {
     "chat_id": str(qq),
     "photo": "https://www.doenets.lk/assets/images/SL-Logo.png",
-    "caption": "Hello ! \n I'm Doenets.lk Bot \n\n What does I Know \n\n • G.C.E. (A/L) EXAMINATION - 2020 \n • G.C.E. (O/L) EXAMINATION (After Rescrutiny) - 2019 \n • GRADE 5 SCHOLARSHIP EXAMINATION (AFTER APPES) - 2020 \n\n  www.doenets.lk ",
+    "caption": "Hello ! \n I'm Doenets.lk Bot \n\n Develope By @KingAmda \n\n What does I Know \n\n • G.C.E. (A/L) EXAMINATION - 2020 \n • G.C.E. (O/L) EXAMINATION (After Rescrutiny) - 2019 \n • GRADE 5 SCHOLARSHIP EXAMINATION (AFTER APPES) - 2020 \n\n  www.doenets.lk ",
     "parse_mode": "HTML",
     "reply_markup": {
         "inline_keyboard": [

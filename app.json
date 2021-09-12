@@ -1,6 +1,7 @@
 {
-    "name": "Results Checker Bot",
+    "name": "Results Viwer Bot",
     "description": "Checks Exam Results",
+    "logo": "https://telegra.ph/file/7fad899e74ac25b5a1353.jpg",
     "keywords": [
         "Account-Checker",
         "python",

@@ -42,6 +42,10 @@ def stat(qq):
             {
               "text":"Devs",
               "url":"https://t.me/KingAmda"
+            },
+            {
+              "text":"Repo",
+              "url":"https://github.com/King-Amda/Result-Viwer"
             }
           ],
             [

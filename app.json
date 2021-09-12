@@ -1,0 +1,31 @@
+{
+    "name": "Results Checker Bot",
+    "description": "Checks Exam Results",
+    "keywords": [
+        "Account-Checker",
+        "python",
+        "telegram",
+        "telegram-bot"
+    ],
+    "repository": "https://github.com/King-Amda/Result-Viewer",
+    "success_url": "/",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "Get your token from @BotFather and paste it here."
+        },
+        "APP_ID": {
+            "description": "Telegram App ID"
+        },
+        "APP_HASH": {
+            "description": "Telegram Hash."
+        }
+    },
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/python"
+}
+

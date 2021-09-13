@@ -10,3 +10,6 @@ O/L , A/L &amp; Grade 5 Schoolship Result Viwer TG Bot..
 
 # Copy Right In
 [UB Exams Results Bot](https://github.com/UvinduBro/Exams-results-Bot)
+
+# Telegram Bot
+[Result Viewer Bot](https://t.me/KingAmdaExamBot)
